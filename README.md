@@ -24,9 +24,7 @@ The course prepares you for the job market with Job Title "UI developer" by lear
 
 * **Adobe Photoshop For Web design**
     * Intro
-    * The Basic Elements of Visual Design
-    * Typography Basics
-    * Designing with Grids
+    * Visual Design Concepts
     * Opening a new document
     * The Toolbar
     * Palettes
@@ -67,7 +65,7 @@ The course prepares you for the job market with Job Title "UI developer" by lear
     * Float & Alignment
     * Positioning
     * Coming Soon page CSS project
-    * CSS Concepts - Advanced Selectors, Animation & More
+    * CSS3 Concepts - Advanced Selectors, Animation & More
     * CSS3 Project
 
 * **Convert Design to HTML5 & CSS page**
