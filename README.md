@@ -38,7 +38,7 @@ The course prepares you for the job market with Job Title "UI developer" by lear
 
 * **HTML & HTML5**
     * HTML Basics
-    * Folder Structure of aWebsite
+    * Folder Structure of Website
     * Heading & Paragraph Tags
     * Hyperlinks & Lists
     * Images
